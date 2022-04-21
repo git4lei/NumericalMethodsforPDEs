@@ -17,3 +17,7 @@ custom_channels:
   pytorch: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
   pytorch-lts: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
   simpleitk: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
+  
+  2. Install clawpack
+
+conda install -c clawpack -c conda-forge clawpack
